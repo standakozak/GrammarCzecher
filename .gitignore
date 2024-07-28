@@ -1,0 +1,5 @@
+data/*/*
+*.pdf
+model/*
+*.pyc
+__pycache__
